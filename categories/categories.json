@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Men Fashion",
+            "items": [
+                { "id": 1, "name": "Man Shirt" },
+                { "id": 2, "name": "Man Work Equipment" },
+                { "id": 3, "name": "Man T-Shirt" },
+                { "id": 4, "name": "Man Shoes" },
+                { "id": 5, "name": "Man Pants" },
+                { "id": 6, "name": "Man Underwear" }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Women Fashion",
+            "items": [
+                { "id": 7, "name": "Dress" },
+                { "id": 8, "name": "Woman Pants" },
+                { "id": 9, "name": "Skirt" },
+                { "id": 10, "name": "Woman Bag" },
+                { "id": 11, "name": "High Heels" },
+                { "id": 12, "name": "Bikini" }
+            ]
+        }
+    ]
+}

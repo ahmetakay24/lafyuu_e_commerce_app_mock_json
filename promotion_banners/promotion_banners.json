@@ -2,10 +2,20 @@
     "promotion_banners": [
       {
         "id": 1,
+        "title": "Super Flash Sale \n%50 Off",
+        "sub_title": null,
+        "counter" : {
+          "hour" : 24,
+          "minutes" : null,
+          "seconds" : null
+        },
         "url": "https://i.hizliresim.com/kq0btan.png"
       },
       {
         "id": 2,
+        "title":"Recomended\nProduct",
+        "sub_title":"We recommend the best for you",
+        "counter" : null,
         "url": "https://i.hizliresim.com/7exsrrd.png"
       }
     ]
