@@ -1,0 +1,42 @@
+{
+    "main_screen_products_showcase": {
+        "products": [
+            {
+                "id": 1,
+                "name": "Nike Air Max 270 React ENG",
+                "price": 299.43,
+                "old_price": 534.33,
+                "rating": 4,
+                "image": "https://i.hizliresim.com/obr8mh8.png",
+                "discount": 24
+            },
+            {
+                "id": 2,
+                "name": "Nike Air Max 270 React ENG",
+                "price": 299.43,
+                "old_price": 534.33,
+                "rating": 4,
+                "image": "https://i.hizliresim.com/li260ww.png",
+                "discount": 24
+            },
+            {
+                "id": 3,
+                "name": "Nike Air Max 270 React ENG",
+                "price": 299.43,
+                "old_price": 534.33,
+                "rating": 4,
+                "image": "https://i.hizliresim.com/krywngr.png",
+                "discount": 24
+            },
+            {
+                "id": 4,
+                "name": "Nike Air Max 270 React ENG",
+                "price": 299.43,
+                "old_price": 534.33,
+                "rating": 4,
+                "image": "https://i.hizliresim.com/cco2afx.png",
+                "discount": 24
+            }
+        ]
+    }
+}

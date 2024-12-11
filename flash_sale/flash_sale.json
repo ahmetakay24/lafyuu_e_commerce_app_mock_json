@@ -1,0 +1,30 @@
+{
+    "flashSale": {
+        "products": [
+            {
+                "id": 1,
+                "name": "FS - Nike Air Max 270 React",
+                "price": 299.43,
+                "old_price": 534.33,
+                "image": "https://i.hizliresim.com/k91scel.png",
+                "discount": 24
+            },
+            {
+                "id": 2,
+                "name": "FS - QUILTED MAXI CROS",
+                "price": 299.43,
+                "old_price": 534.33,
+                "image": "https://i.hizliresim.com/r18r29o.png",
+                "discount": 24
+            },
+            {
+                "id": 3,
+                "name": "FS - Nike Air Max 270 React",
+                "price": 299.43,
+                "old_price": 534.33,
+                "image": "https://i.hizliresim.com/k91scel.png",
+                "discount": 24
+            }
+        ]
+    }
+}
